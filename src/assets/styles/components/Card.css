@@ -1,0 +1,11 @@
+.Card {
+ margin-bottom: 5px;
+}
+
+.Buttons{
+    display: flex;
+}
+
+.Button{
+    width: 100%;
+}
